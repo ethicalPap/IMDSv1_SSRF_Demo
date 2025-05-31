@@ -209,10 +209,6 @@ Type `yes` when prompted to confirm the destruction.
 
 Please read our contributing guidelines and ensure all security testing is conducted responsibly and ethically.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Disclaimer
 
 This software is provided for educational purposes only. Users are responsible for ensuring they have proper authorization before testing on any systems. The authors are not responsible for any misuse of this software.
